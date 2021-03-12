@@ -7,7 +7,7 @@ public class Serialization {
        FileOutputStream fos = new FileOutputStream("info.out");
        ObjectOutputStream oos = new ObjectOutputStream(fos);
 
-       StudentSer studentInfo = new StudentSer("Sanzhar", "My Secret");
+       StudentSer studentInfo = new StudentSer("Rias", "My Secret");
 
        oos.writeObject(studentInfo);
        oos.flush();
