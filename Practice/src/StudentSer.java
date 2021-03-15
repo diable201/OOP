@@ -43,13 +43,13 @@ public class StudentSer implements Externalizable {
 
     private String encryptString(String data) {
         String encryptedData = Base64.getEncoder().encodeToString((data.getBytes()));
-        System.out.println("Encyprion is succesfull: " + encryptedData);
+        System.out.println("Encryption is succesful: " + encryptedData);
         return encryptedData;
     }
  
     private String decryptString(String data) {
         String decryptedData = new String(Base64.getDecoder().decode(data));
-        System.out.println("Decryption is succesfull: " + decryptedData);
+        System.out.println("Decryption is succesful: " + decryptedData);
         return decryptedData;
     }
     
