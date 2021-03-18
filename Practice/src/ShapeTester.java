@@ -4,7 +4,7 @@ public class ShapeTester {
 
 	public static void main(String[] args) {
 		Vector<Shape> shapes = new Vector<Shape>();
-		shapes.add(new Square(Shape.Color.RED, 1, 2));
+		shapes.add(new Square(Shape.Color.RED, 1, 2, Math.sqrt(2) * 2));
 		shapes.add(new Triangle(Shape.Color.BLACK, 2));
 		shapes.add(new Circle(Shape.Color.RED, 2, 2));
 	
