@@ -1,3 +1,5 @@
+package problem_3;
+
 public class ChessTester {
     public static void main(String[] args) {
         Pawn pawn = new Pawn(new Position('e', '2'));

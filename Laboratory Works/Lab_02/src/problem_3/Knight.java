@@ -1,3 +1,5 @@
+package problem_3;
+
 public class Knight extends Piece {
     public Knight(Position pos1) {
         this.pos1 = pos1;

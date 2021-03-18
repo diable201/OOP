@@ -1,3 +1,5 @@
+package problem_3;
+
 public class Rook extends Piece {
     public Rook(Position pos1) {
         this.pos1 = pos1;

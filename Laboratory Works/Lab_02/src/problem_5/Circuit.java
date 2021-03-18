@@ -1,3 +1,5 @@
+package problem_5;
+
 public abstract class Circuit {
     public abstract double getResistance();
 

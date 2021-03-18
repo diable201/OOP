@@ -1,3 +1,5 @@
+package problem_4;
+
 public class CheckingAccount extends Account {
     private final double fee = 0.02;
     private int numberOfTransactions;

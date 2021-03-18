@@ -1,3 +1,5 @@
+package problem_3;
+
 public class Bishop extends Piece {
     public Bishop(Position pos1) {
         this.pos1 = pos1;

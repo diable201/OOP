@@ -1,3 +1,5 @@
+package problem_3;
+
 public class Pawn extends Piece {
     public Pawn(Position pos1) {
         this.pos1 = pos1;

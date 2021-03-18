@@ -1,3 +1,5 @@
+package problem_5;
+
 public class Series extends Circuit {
     private Circuit x;
     private Circuit y;

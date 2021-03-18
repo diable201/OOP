@@ -1,3 +1,5 @@
+package problem_5;
+
 public class CircuitTester {
     public static void main(String[] args) {
         Circuit a = new Resistor(3.0);

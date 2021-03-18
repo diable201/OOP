@@ -1,3 +1,5 @@
+package problem_3;
+
 public class Position {
     public int letter;
     public int num;

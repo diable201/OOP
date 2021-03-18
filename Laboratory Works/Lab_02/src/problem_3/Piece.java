@@ -1,3 +1,5 @@
+package problem_3;
+
 public abstract class Piece {
     Position pos1;
     private Position position;

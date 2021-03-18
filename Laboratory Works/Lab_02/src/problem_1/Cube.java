@@ -1,3 +1,5 @@
+package problem_1;
+
 public class Cube extends Shape {
     public double side;
 

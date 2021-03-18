@@ -1,3 +1,5 @@
+package problem_5;
+
 public class Resistor extends Circuit {
     private double resistance;
     private double potentialDifference;

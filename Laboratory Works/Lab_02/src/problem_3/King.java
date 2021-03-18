@@ -1,3 +1,5 @@
+package problem_3;
+
 public class King extends Piece {
     public King(Position pos1) {
         this.pos1 = pos1;

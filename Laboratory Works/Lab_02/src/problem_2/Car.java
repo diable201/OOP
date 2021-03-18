@@ -1,3 +1,4 @@
+package problem_2;
 import java.util.Objects;
 
 public class Car extends Vehicle {

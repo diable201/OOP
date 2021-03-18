@@ -1,3 +1,5 @@
+package problem_1;
+
 public abstract class Shape {
     private boolean filled;
 
